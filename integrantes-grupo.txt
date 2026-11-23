@@ -1,4 +1,4 @@
-Inegrantes del grupo
+Integrantes del grupo
 Nombres:
 
 Samer Franco
@@ -10,3 +10,7 @@ Control de versiones y uso de Git, GitHub
 
 Objetivo del proyecto:
 Conocer los comandos de Git y aprender a subir y compartir proyectos en GitHub
+
+Correo del intgrante:
+
+smatiasf102801@gmail.com
